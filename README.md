@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif, I am Sergi Generó!
 
 <!--
 **sergigt10/sergigt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width:100%;" width="30px">, I am Sergi Generó!
 <a href="https://www.linkedin.com/in/sergi-genero-web-developer-engineer/" rel="nofollow">
   <img alt="Sergi's Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left">
-</a> Connect with me on LinkedIn.
+</a>Connect with me on LinkedIn.
 
 ---
 

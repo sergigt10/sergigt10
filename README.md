@@ -3,6 +3,7 @@
   <img alt="Sergi's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+
 <a href="https://www.linkedin.com/in/sergi-genero-web-developer-engineer/" rel="nofollow">
   Connect with me on LinkedIn.
 </a>

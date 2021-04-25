@@ -2,9 +2,9 @@
 <a href="https://www.linkedin.com/in/sergi-genero-web-developer-engineer/" rel="nofollow">
   <img alt="Sergi's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-Connect with me on LinkedIn.
-
+<a href="https://www.linkedin.com/in/sergi-genero-web-developer-engineer/" rel="nofollow">
+  Connect with me on LinkedIn.
+</a>
 ---
 
 A Full Stack Developer Engineer specializing in PHP and JavaScript. Professional experience with the technologies listed in the toolbox below. +7 years of experience in web development.

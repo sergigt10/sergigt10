@@ -4,6 +4,7 @@
 </a>
 
 
+
 <a href="https://www.linkedin.com/in/sergi-genero-web-developer-engineer/" rel="nofollow">
   Connect with me on LinkedIn.
 </a>

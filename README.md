@@ -9,7 +9,7 @@ Connect with me on LinkedIn.
 
 A Full Stack Developer Engineer specializing in PHP and JavaScript. Professional experience with the technologies listed in the toolbox below. +7 years of experience in web development.
 
-I like building things and finding new ways for solving problems. When I'm not coding, you can find me in mountain bike 🚲
+When I'm not coding, you can find me in mountain bike 🚲
 
 ---
 
